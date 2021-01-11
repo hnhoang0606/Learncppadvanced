@@ -1,0 +1,19 @@
+- con trỏ hàm
+https://cpp.daynhauhoc.com/8/9-con-tr-ham/
+- functor
+http://devnt.org/modern-c-functors/
+https://www.stdio.vn/modern-cpp/function-objects-hay-functor-voi-c-r1QkmL
+- nạp chồng toán tử  () ;
+
+-Lamda expression 
+https://kipalog.com/posts/C---lambda
+
+http://devnt.org/modern-c-functors/
+
+https://www.stdio.vn/modern-cpp/rvalue-references-va-move-semantics-25mL81
+
+https://cpp.daynhauhoc.com/8/9-con-tr-ham/
+
+https://www.stdio.vn/modern-cpp/c-11-smart-pointers-quan-ly-tai-nguyen-45mLh1
+
+
