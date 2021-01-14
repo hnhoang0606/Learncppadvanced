@@ -24,4 +24,13 @@ https://cppdeveloper.com/design-patterns/design-patterns-3-factory-pattern-phan-
 
 Structural design pattern
 
+https://cppdeveloper.com/design-patterns/design-patterns-facade-pattern/
+https://www.stdio.vn/software-architecture/design-pattern-proxy-pattern-HcQFI
+
+state design pattern
+https://cppdeveloper.com/design-patterns/design-patterns-8-state-pattern/
+
+https://www.youtube.com/watch?v=UUo5ndoFK3U
+
+Design Patterns for Dummies
 
