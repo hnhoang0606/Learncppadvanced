@@ -34,3 +34,15 @@ https://www.youtube.com/watch?v=UUo5ndoFK3U
 
 Design Patterns for Dummies
 
+đa luồng, đa tiến trình
+https://codelearn.io/sharing/lap-trinh-da-tien-trinh
+
+Memory leak
+https://mrpear.com/cplusplus/memory-leak-la-gi/
+
+giao tiếp đa tiến  trình
+
+https://ttl.engineering/giao-tiep-lien-tien-trinh-inter-process-communication-ipc-trong-he-dieu-hanh-linux/
+
+https://ttl.engineering/category/computerengineering/
+
