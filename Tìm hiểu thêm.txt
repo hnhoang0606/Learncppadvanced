@@ -22,27 +22,38 @@ https://cppdeveloper.com/design-patterns/design-patterns-1-singleton-pattern/
 https://www.stdio.vn/software-architecture/design-pattern-factory-pattern-h3BL11
 https://cppdeveloper.com/design-patterns/design-patterns-3-factory-pattern-phan-2-abstract-factory/
 
-Structural design pattern
+3, Structural design pattern
 
 https://cppdeveloper.com/design-patterns/design-patterns-facade-pattern/
 https://www.stdio.vn/software-architecture/design-pattern-proxy-pattern-HcQFI
 
-state design pattern
+4, state design pattern
 https://cppdeveloper.com/design-patterns/design-patterns-8-state-pattern/
 
 https://www.youtube.com/watch?v=UUo5ndoFK3U
 
 Design Patterns for Dummies
 
-đa luồng, đa tiến trình
+5, đa luồng, đa tiến trình
 https://codelearn.io/sharing/lap-trinh-da-tien-trinh
 
-Memory leak
+6, Memory leak
 https://mrpear.com/cplusplus/memory-leak-la-gi/
 
-giao tiếp đa tiến  trình
+7, giao tiếp đa tiến  trình
 
 https://ttl.engineering/giao-tiep-lien-tien-trinh-inter-process-communication-ipc-trong-he-dieu-hanh-linux/
 
 https://ttl.engineering/category/computerengineering/
+
+8, sequence diagram
+https://viblo.asia/p/phan-tich-thiet-ke-he-thong-thong-tin-su-dung-bieu-do-uml-phan-2-0bDM6wpAG2X4
+
+9, command pattern
+https://kipalog.com/posts/Design-Pattern--Command-Pattern
+https://www.bogotobogo.com/DesignPatterns/command.php
+
+
+
+
 
